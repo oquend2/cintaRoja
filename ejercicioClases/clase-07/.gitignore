@@ -1,0 +1,5 @@
+/node_modules/
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/oquend2/cintaRoja.git
+git push -u origin mas
